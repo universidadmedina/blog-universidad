@@ -4,9 +4,9 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a través de u
 [Descripción del Proyecto]
 
 [Instalación]
-1.- Requisitos
-2.- Versión
-3.- Encargados del Proyecto
+- Requisitos
+- Versión
+- Encargados del Proyecto
 
 [Uso]
 Este proyecto trara de esto y se usa así
