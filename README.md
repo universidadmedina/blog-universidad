@@ -17,5 +17,6 @@ Este proyecto trara de esto y se usa así
 
 [Licencia]
 
-
 [Planes futuros]
+
+[Agradecimientos]
